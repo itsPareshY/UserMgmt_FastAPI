@@ -5,3 +5,11 @@ __pycache__/
 *.egg-info/
 *.egg
 .venv/
+*.db
+.conda
+routes/__pycache__/
+models/__pycache__/
+services/__pycache__/
+*.pyc   
+app/routes/*.pyc
+
